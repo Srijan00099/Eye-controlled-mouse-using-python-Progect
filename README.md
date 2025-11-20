@@ -1,1 +1,1 @@
-# Eye-controlled-mouse-using-python-Progect
+# Eye-controlled-mouse-using-python-Project
